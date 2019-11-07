@@ -3,7 +3,7 @@
 #### Zero to ML Hero with TensorFlow 2.0
 *by [Laurence Moroney](https://github.com/lmoroney) (Google)*
 
-![Tensorflow World Coding](\imgs\tfworld_coding.png)
+![Tensorflow World Coding](/tuts/tfw19/imgs/tfworld_coding.png)
 
 **09:00 AM: Keras & TF Introduction**
 Google Colab for development notebooks ad run environment
