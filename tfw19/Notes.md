@@ -44,7 +44,8 @@ Google Colab for development notebooks ad run environment
 - Dataset: Generated CGI horse & human images. Works well with real images except on Elon Musk
 - Keras trick: Put images in a label-named-directory and ImageDataGenerator will take care of attaching that label to the image
 - Sometimes we provide strings for loss or optimizer and sometimes an object to which we can pass params
-- *Not covering Gradient Descent.* Refer to [Andrew Ng on Youtube](https://www.youtube.com/watch?v=uJryes5Vk1o)Data quality is the most critical aspect
+- *Not covering Gradient Descent.* Refer to [Andrew Ng on Youtube](https://www.youtube.com/watch?v=uJryes5Vk1o)
+- Data quality is the most critical aspect
 - Upload files to colab and run through the test predictions
 
 **01:00 PM: Post Lunch Horse classification**
